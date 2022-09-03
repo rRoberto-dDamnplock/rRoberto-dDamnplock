@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rRoberto-dDamnplock
-- 👀 I'm interested in building softwares and hopefully one day be a ML and AI engineer.
-- 🌱 I’m currently learning software developement by my own.
-- 💞️ I’m looking to collaborate on building web apps/ mobile apps and softwares
+- 👀 I'm interested in engineering and building stuff for the world. 
+- 🌱 I’m currently learning software and cloud developement by my own.
 - 📫 How to reach me --> Email: robertogasy@gmail.com 
